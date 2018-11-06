@@ -2,7 +2,7 @@ window.$docsify = {
   name: 'The Cube',
   nameLink: {
     '/zh-cn/': '#/zh-cn/',
-    '/': '/'
+    '/': '#/'
   },
   alias: {
    },
